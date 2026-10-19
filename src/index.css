@@ -1,0 +1,41 @@
+:root {
+  --bg: #0b0807;
+  --panel-top: #16100e;
+  --panel-bottom: #0f0b09;
+  --gold: #dcae55;
+  --gold-bright: #f7d98a;
+  --gold-deep: #7d5f28;
+  --crimson: #7a1212;
+  --bone: #e8dcc4;
+  --bone-muted: #a89880;
+  --font-title: 'Cinzel Decorative', serif;
+  --font-display: 'Cinzel', serif;
+  --font-body: 'Cormorant Garamond', serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  min-height: 100%;
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--bone);
+  background:
+    radial-gradient(ellipse at 50% 0%, rgba(122, 18, 18, 0.28), transparent 55%),
+    radial-gradient(ellipse at 80% 100%, rgba(201, 165, 90, 0.08), transparent 45%),
+    var(--bg);
+}
+
+button,
+a {
+  font: inherit;
+}
