@@ -1,6 +1,6 @@
 import './App.css';
 
-const PORTFOLIO_URL = 'https://portafolio-zambrana.vercel.app';
+const PORTFOLIO_URL = 'https://github.com/Zambrana07/Portafolio';
 
 const App = () => (
   <main className="cv-shell">
