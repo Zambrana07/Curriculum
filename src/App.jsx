@@ -23,8 +23,7 @@ const App = () => (
       </div>
 
       <p className="cv-lead">
-        Esta página es el hogar de mi curriculum. Pronto aquí va a vivir la versión
-        completa, con la misma estética del portafolio.
+        gays, BAHAHAHAHAHA. ok no, pero tengo q trabajar en esto 
       </p>
 
       <div className="cv-actions">
