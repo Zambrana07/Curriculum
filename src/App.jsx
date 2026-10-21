@@ -23,7 +23,7 @@ const App = () => (
       </div>
 
       <p className="cv-lead">
-        gays, BAHAHAHAHAHA. ok no, pero tengo q trabajar en esto 
+        Work in progress. Esta página todavía se está construyendo.
       </p>
 
       <div className="cv-actions">
